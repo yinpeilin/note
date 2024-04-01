@@ -180,3 +180,34 @@ head.s
 ![image-20240109104843101](http://image.coder-no-bug.com/202401091048158.png)
 
 ![image-20240109110556039](http://image.coder-no-bug.com/202401091105107.png)
+
+1. 操作系统的引导
+
+2. 系统调用
+
+3. 进程运行轨迹的跟踪与统计
+4. 信号量的实现和应用
+5. 地址映射与共享
+6. 字符显示的控制
+7. proc文件系统的实现
+8. 内核级线程
+
+进程调度
+
+SIGHUP
+
+SIGINT
+
+SIGQUIT
+
+SIGILL
+
+SIGTRAP
+
+SIGPIPE
+
+SIGCHLD
+
+SIGTTOU
+
+![image-20240111221121514](http://image.coder-no-bug.com/202401112211637.png)
